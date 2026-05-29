@@ -1,7 +1,7 @@
 <!-- WAIFU — float kanan -->
 <img
   align="right"
-  width="170"
+  width="140"
   src="https://github.com/mirzasnowy/mirzasnowy/blob/main/waifu.png?raw=true"
   alt="waifu"
 />
