@@ -1,11 +1,3 @@
-<!-- WAIFU — float kanan -->
-<img
-  align="right"
-  width="195"
-  src="https://github.com/mirzasnowy/mirzasnowy/blob/main/dragon_pixel.png?raw=true"
-  alt="waifu"
-/>
-
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/mirzasnowy">
   <img
