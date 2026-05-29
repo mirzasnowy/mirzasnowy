@@ -1,16 +1,15 @@
-<!-- WAIFU — float kanan, terlihat di samping bio -->
+<!-- WAIFU — float kanan -->
 <img
   align="right"
   width="185"
-  src="YOUR_WAIFU_IMAGE_URL"
+  src="YOUR_WAIFU_URL"
   alt="waifu"
-  style="border-radius:16px; margin: 0 0 16px 24px;"
 />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/mirzasnowy">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=7C3AED&vCenter=true&width=520&lines=Hey+there%2C+I'm+Mirza+%F0%9F%91%8B;AI+Engineer+%26+Software+Developer;Building+RAG+%26+LLM+Systems+%F0%9F%9A%80;Open+to+Global+Remote+%F0%9F%8C%8D"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=7C3AED&vCenter=true&width=520&lines=Hey+there%2C+I'm+Mirza+%F0%9F%91%8B;AI+Engineer+%26+Software+Developer;Building+RAG+%26+LLM+Systems+%F0%9F%A4%96;Open+to+Global+Remote+%F0%9F%8C%8D"
     alt="Typing SVG"
   />
 </a>
@@ -45,12 +44,20 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**⚙️ Backend & Web**
+**🌐 Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**⚙️ Backend & Database**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -60,27 +67,15 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🧠 [**RAG Adaptive Memory**](https://github.com/mirzasnowy/rag-adaptive-memory) | LLM system with tiered memory — working context + episodic retrieval | Python · LangChain · FastAPI |
-| 🔬 [**NeuroScan AI**](https://github.com/mirzasnowy/neuroscan-ai) | Brain tumor MRI classification — **96% accuracy** using VGG16 + Flutter mobile app | TensorFlow · Flutter · Flask |
-| 🤖 **IISMA Telegram Bot** | AI chatbot for Indonesia's international scholarship program · Presented at **ICONICSS** | Python · NLP · Telegram API |
+| 🔬 [**NeuroScan AI**](https://github.com/mirzasnowy/neuroscan-ai) | Brain tumor MRI classification — **96% accuracy** using VGG16 + Flutter app | TensorFlow · Flutter · Flask |
+| 🤖 **IISMA Telegram Bot** | AI chatbot for Indonesia's intl. scholarship · Presented at **ICONICSS** | Python · NLP · Telegram API |
 | 🎵 [**Sonic Source**](https://github.com/mirzasnowy/sonic-source) | Audio-based song recognition with Spotify integration | JavaScript · Web API |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=mirzasnowy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasnowy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8&hide=html,css"
-    alt="Top Languages"
-  />
-</p>
-
+<!-- Streak — ini biasanya lebih stabil, tidak butuh self-deploy -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=mirzasnowy&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED&sideLabels=7C3AED"
@@ -90,12 +85,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=mirzasnowy&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mirzasnowy&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=A855F7&area=true&area_color=7C3AED&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
@@ -148,62 +143,3 @@
 </p>
 
 ---
-
-<!--
-═══════════════════════════════════════════════════════════════
-  SNAKE ANIMATION WORKFLOW
-  
-  Simpan sebagai: .github/workflows/snake.yml
-  di dalam repo mirzasnowy/mirzasnowy
-═══════════════════════════════════════════════════════════════
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # run daily at midnight UTC
-  workflow_dispatch:        # allow manual trigger
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-═══════════════════════════════════════════════════════════════
-  CARA SETUP SNAKE:
-  1. Buat folder .github/workflows/ di repo mirzasnowy
-  2. Buat file snake.yml di sana, isi dengan workflow di atas
-  3. Push ke GitHub
-  4. Pergi ke tab Actions → "Generate Snake Animation"
-  5. Klik "Run workflow" untuk generate pertama kali
-  6. Tunggu ~1 menit, snake akan muncul di README
-═══════════════════════════════════════════════════════════════
-
-  WAIFU TIPS:
-  - Upload image ke repo dengan nama waifu.png/jpg
-  - Gunakan URL: https://raw.githubusercontent.com/mirzasnowy/mirzasnowy/main/waifu.png
-  - Ukuran ideal: 200x300px atau portrait ratio
-  - Rekomendasi sumber waifu yang tasteful & gratis:
-    · Buat sendiri di picrew.me
-    · Generate di waifulabs.com
-    · Gunakan karakter dari anime favoritmu (upload manual)
-    · Coding-themed anime art dari Pinterest/DeviantArt
-  - HINDARI: gambar explicit, gambar berhak cipta besar
-═══════════════════════════════════════════════════════════════
--->
