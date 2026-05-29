@@ -2,7 +2,7 @@
 <img
   align="right"
   width="185"
-  src="YOUR_WAIFU_URL"
+  src="https://github.com/mirzasnowy/mirzasnowy/blob/main/waifu.png?raw=true"
   alt="waifu"
 />
 
