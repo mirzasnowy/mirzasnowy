@@ -1,35 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║           GITHUB PROFILE README — mirzasnowy                ║
-║                    SETUP GUIDE                               ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  1. Buat repo baru dengan nama SAMA dengan username GitHub   ║
-║     → New repo → nama: "mirzasnowy" → Public → Add README   ║
-║                                                              ║
-║  2. WAIFU IMAGE:                                             ║
-║     - Upload gambar waifu ke repo ini                        ║
-║     - Ganti YOUR_WAIFU_IMAGE_URL dengan raw GitHub URL-nya   ║
-║     - Format: https://raw.githubusercontent.com/            ║
-║       mirzasnowy/mirzasnowy/main/waifu.png                  ║
-║     - Rekomendasi: gambar coding anime, chibi, atau          ║
-║       karakter favoritmu — tasteful, tidak explicit          ║
-║                                                              ║
-║  3. SNAKE ANIMATION:                                         ║
-║     - Buat file: .github/workflows/snake.yml                 ║
-║     - Isi dengan workflow di bagian bawah file ini           ║
-║     - Push → Actions tab → Run workflow manually sekali      ║
-║                                                              ║
-║  4. Update semua placeholder:                                ║
-║     - YOUR_WAIFU_IMAGE_URL → URL waifu kamu                  ║
-║     - your@email.com → email kamu                            ║
-║     - your-portfolio.com → URL portfolio kamu                ║
-║     - LinkedIn URL jika sudah ganti custom URL               ║
-║     - Repo names di Featured Projects                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <!-- WAIFU — float kanan, terlihat di samping bio -->
 <img
   align="right"
@@ -42,7 +10,7 @@
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/mirzasnowy">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=7C3AED&vCenter=true&width=520&lines=Hey+there%2C+I'm+Mirza+%F0%9F%91%8B;AI+Engineer+%26+Software+Developer;Building+RAG+%26+LLM+Systems+%F0%9F%A4%96;Bangkit+2024+%E2%80%94+1+of+4%2C600+%F0%9F%9A%80;Open+to+Global+Remote+%F0%9F%8C%8D"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=7C3AED&vCenter=true&width=520&lines=Hey+there%2C+I'm+Mirza+%F0%9F%91%8B;AI+Engineer+%26+Software+Developer;Building+RAG+%26+LLM+Systems+%F0%9F%9A%80;Open+to+Global+Remote+%F0%9F%8C%8D"
     alt="Typing SVG"
   />
 </a>
