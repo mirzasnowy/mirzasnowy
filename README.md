@@ -19,7 +19,6 @@
 🤖 **Building intelligent software** — RAG systems, LLM apps, Android & backend  
 🎓 **Bangkit 2024** — selected among **4,600 from 45,000+** applicants  
 🏛️ **Ex Software Developer** @ House of Representatives of Indonesia  
-📄 **Published author** · Presenter at **ICONICSS International Conference**  
 🔭 Currently: **RAG Adaptive Memory System** · Preparing for **MBZUAI 2027**  
 🌍 Open to **global remote opportunities**
 
@@ -62,17 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧠 [**RAG Adaptive Memory**](https://github.com/mirzasnowy/rag-adaptive-memory) | LLM system with tiered memory — working context + episodic retrieval | Python · LangChain · FastAPI |
-| 🔬 [**NeuroScan AI**](https://github.com/mirzasnowy/neuroscan-ai) | Brain tumor MRI classification — **96% accuracy** using VGG16 + Flutter app | TensorFlow · Flutter · Flask |
-| 🤖 **IISMA Telegram Bot** | AI chatbot for Indonesia's intl. scholarship · Presented at **ICONICSS** | Python · NLP · Telegram API |
-| 🎵 [**Sonic Source**](https://github.com/mirzasnowy/sonic-source) | Audio-based song recognition with Spotify integration | JavaScript · Web API |
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Streak — ini biasanya lebih stabil, tidak butuh self-deploy -->
@@ -93,25 +81,6 @@
     alt="Contribution Graph"
   />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mirzasnowy/mirzasnowy/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mirzasnowy/mirzasnowy/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Contribution Snake"
-    src="https://raw.githubusercontent.com/mirzasnowy/mirzasnowy/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
 
 ---
 
