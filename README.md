@@ -6,7 +6,7 @@
 
 <a href="https://github.com/mirzasnowy">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1000&color=67B0E3&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Mirza;AI+%26+Software+Engineer;I+design+%26+build+RAG+%26+LLM+systems;Open+to+global+remote"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1000&color=67B0E3&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Mirza;AI+%26+Software+Engineer;I+design+%26+build+RAG+%26+LLM+systems;Open+to+opportunities"
     alt="Muhammad Mirza"
   />
 </a>
@@ -27,7 +27,7 @@ backed by a foundation in Android and backend development.
 - Bangkit 2024 cohort, one of 4,600 selected from 45,000+ applicants
 - Former Software Engineer at the House of Representatives of Indonesia
 - Currently building a RAG Adaptive Memory System
-- Open to global remote roles
+- Open to opportunities.
 
 ## <img src="./assets/icons/stack.svg" height="21" alt="" />&nbsp; Tech Stack
 
