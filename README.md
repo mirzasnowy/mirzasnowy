@@ -6,14 +6,14 @@
 
 <a href="https://github.com/mirzasnowy">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1000&color=67B0E3&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Mirza;AI+Engineer+%26+Software+Developer;I+build+RAG+%26+LLM+systems;Open+to+global+remote"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1000&color=67B0E3&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Mirza;AI+%26+Software+Engineer;I+design+%26+build+RAG+%26+LLM+systems;Open+to+global+remote"
     alt="Muhammad Mirza"
   />
 </a>
 
 <br/>
 
-<sub><b>AI Engineer</b> &nbsp;·&nbsp; RAG &amp; LLM systems &nbsp;·&nbsp; Android &amp; backend</sub>
+<sub><b>Software Engineer</b> &nbsp;·&nbsp; AI, RAG &amp; LLM systems &nbsp;·&nbsp; Android &amp; backend</sub>
 
 </div>
 
@@ -21,11 +21,11 @@
 
 ## <img src="./assets/icons/about.svg" height="21" alt="" />&nbsp; About
 
-AI Engineer building RAG and LLM systems, with a foundation in Android and backend
-development.
+Software Engineer focused on AI. I design, build, and ship RAG and LLM systems,
+backed by a foundation in Android and backend development.
 
 - Bangkit 2024 cohort, one of 4,600 selected from 45,000+ applicants
-- Former Software Developer at the House of Representatives of Indonesia
+- Former Software Engineer at the House of Representatives of Indonesia
 - Currently building a RAG Adaptive Memory System
 - Open to global remote roles
 
@@ -83,15 +83,15 @@ development.
 <div align="center">
 
 <a href="https://linkedin.com/in/muhammad-mirza-kurniawan-2036b72b8">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=67B0E3" alt="LinkedIn"/>
+  <img src="./assets/icons/linkedin.svg" height="28" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:mirzakur19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=67B0E3" alt="Email"/>
+  <img src="./assets/icons/email.svg" height="28" alt="Email"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mirzasnowy">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=67B0E3" alt="GitHub"/>
+  <img src="./assets/icons/github.svg" height="28" alt="GitHub"/>
 </a>
 
 <br/><br/>
