@@ -2,7 +2,7 @@
 
 <img
   src="https://raw.githubusercontent.com/mirzasnowy/snowy-3d-showcase/main/character.gif"
-  width="300"
+  width="250"
   alt="Snowy mascot"
 />
 
