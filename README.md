@@ -1,10 +1,6 @@
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/mirzasnowy/snowy-3d-showcase/main/character.gif"
-  width="220"
-  alt="Snowy mascot"
-/>
+  <img src="wolf bg.jpeg" alt="Wolf Background" />
 
 <br/>
 
